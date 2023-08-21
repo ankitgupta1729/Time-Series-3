@@ -1,0 +1,6 @@
+pandas
+pandas-datareader
+datetime
+ipykernel
+matplotlib
+statsmodels
